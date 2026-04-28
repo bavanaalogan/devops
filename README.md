@@ -170,8 +170,8 @@ HelloGradle/
 # Step 7: Build & Run
 
 ```cmd
-gradlew build
-gradlew run
+.\gradlew run
+.\gradlew run
 ```
 
 # Short Procedure (For Record)
